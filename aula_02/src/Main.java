@@ -1,4 +1,12 @@
 import java.util.Scanner;
+/*
+*  Grupo 06
+*  vinicius evandro
+*  william freitas
+*  lucas adrian
+*  fernanda garcia
+*  everton silverio
+* */
 
 public class Main {
     public static void main(String[] args) {
@@ -20,11 +28,6 @@ public class Main {
 
         System.out.println(retornaMaior(a, b, c));
     }
-
-    vinicius evandro
-            william freitas
-    lucas adrian
-            fernanda garcia
 
     public static String retornaMaior(Integer a, Integer b, Integer c) {
 
