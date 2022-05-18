@@ -1,14 +1,15 @@
+package com.aula02;
 import java.util.Scanner;
 /*
-*  Grupo 06
-*  vinicius evandro
-*  william freitas
-*  lucas adrian
-*  fernanda garcia
-*  everton silverio
-* */
+ *  Grupo 06
+ *  vinicius evandro
+ *  william freitas
+ *  lucas adrian
+ *  fernanda garcia
+ *  everton silverio
+ * */
 
-public class Main {
+public class NumeroMaior {
     public static void main(String[] args) {
 
         Integer a;

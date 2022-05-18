@@ -1,4 +1,6 @@
-public class Main {
+package com.aula02;
+
+public class TemplateString {
     public static void main(String[] args) {
         String name = "Everton";
         Integer age = 40;

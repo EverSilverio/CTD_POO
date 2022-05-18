@@ -1,6 +1,7 @@
+package aula02_bonus;
 import java.util.Scanner;
 
-public class Main {
+public class NumerosPrimos {
     public static void main(String[] args) {
         Integer number;
 
@@ -35,7 +36,4 @@ public class Main {
         // por 1 e ele mesmo
         return true;
     }
-
-
 }
-

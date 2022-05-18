@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/using_template_string.iml" filepath="$PROJECT_DIR$/using_template_string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ctd_poo.iml" filepath="$PROJECT_DIR$/ctd_poo.iml" />
     </modules>
   </component>
 </project>
