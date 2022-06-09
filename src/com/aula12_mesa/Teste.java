@@ -11,7 +11,7 @@ public class Teste {
         Administrativo tecAdm = new Administrativo("Maria", 1000D, "noturno");
         tecAdm.exibeDados();
 
-        Tecnico assTec = new Tecnico("Joao", 1500D, 200d);
+        Tecnico assTec = new Tecnico("Joao", 1500D, 200D);
         assTec.exibeDados();
 
         Assistente assist = new Assistente("Pedro", 1200D, 171);
